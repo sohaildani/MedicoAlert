@@ -6,4 +6,10 @@
     <color name="list_divider">#272727</color>
     <color name="counter_text_bg">#626262</color>
     <color name="counter_text_color">#c5c4c4</color>
+    <color name="bkg">#587058</color>
+    <color name="activ">#5c755e</color>
+    <color name="inactiv">#999999</color>
+    <color name="bkg2">#3d4935</color>
+    <color name="main">#f10b0b</color>
+    <color name="backg">#baf8f9</color>
 </resources>

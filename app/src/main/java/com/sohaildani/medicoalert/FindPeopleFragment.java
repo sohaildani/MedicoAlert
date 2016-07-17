@@ -8,7 +8,9 @@ import android.view.ViewGroup;
 
 public class FindPeopleFragment extends Fragment {
 	
-	public FindPeopleFragment(){}
+	public FindPeopleFragment(){
+
+    }
 	
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
