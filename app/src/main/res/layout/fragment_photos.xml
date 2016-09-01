@@ -16,7 +16,8 @@
         android:layout_below="@id/txtLabel"
         android:src="@drawable/ic_hospital"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="10dp"/>
+        android:layout_marginTop="10dp"
+        android:id="@+id/image"/>
     
 
 </RelativeLayout>
